@@ -1,5 +1,5 @@
 ---
-title: Документы2
+title: Документы
 layout: default
 modal-id: 11
 date: 2025-04-24
@@ -11,19 +11,34 @@ category: Электросхемы
 description: 
 
 cont: >
-    <h3>АСУ Продуктовой насосной станции</h3>
-    <p></p>
-    <a href="files\ГСМ_ЭлектроСхемы_V0.9.1.pdf" class="btn btn-default">
-        <i class="fa fa-download"></i> Скачать файл
-    </a>
-    <br>
-    <hr class="star-primary">
 
-    <h3>Шкаф дистанционного контроля вентиляционных установок</h3>
-    <p></p>
-    <a href="files\1_Контроль ВУ венткамер 13 и 16.pdf" class="btn btn-default">
-        <i class="fa fa-download"></i> Скачать файл
-    </a>    
+        <h4>Инструкция оператора отделением АДР</h4>
+        <p></p>
+            <a href="files\Руководство оператора АДР.pdf" class="btn btn-default">
+                <i class="fa fa-download"></i> Скачать файл
+            </a>
+
+        <hr class="star-primary">
+  
+        <h4>Отчёт по аварийному останову мельницы</h4>
+        <p> 
+            Разбор причин останова, описание решения проблеммы.
+        </p>
+            <a href="files\Отчёт об аварийном останове МШЦ2 14.04.2021.pdf" class="btn btn-default">
+                <i class="fa fa-download"></i> Скачать файл
+            </a>
+ 
+        <hr class="star-primary">
+        <h4>Объяснительная за останов ПЛК 992 03.08.21</h4>
+        <p> 
+            Что то пошло не так при написании функции диагностики ПЛК.
+        </p>
+        <a href="files\Объяснительная за останов 992 03.08.21.pdf" class="btn btn-default">
+                <i class="fa fa-download"></i> Скачать файл
+        </a>
+
+
+  
 
 
 ---
