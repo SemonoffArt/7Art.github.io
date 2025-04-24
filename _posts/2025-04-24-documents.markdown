@@ -12,7 +12,7 @@ description:
 
 cont: >
 
-        <h4>Инструкция оператора отделением АДР</h4>
+        <h4>Инструкция оператора отделения АДР</h4>
         <p></p>
             <a href="files\Руководство оператора АДР.pdf" class="btn btn-default">
                 <i class="fa fa-download"></i> Скачать файл

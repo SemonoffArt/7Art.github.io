@@ -98,7 +98,7 @@ header {
     text-align: center;
     color: #fff;
     background: #{{ site.color.primary }};
-    background-image: linear-gradient(rgba(24, 188, 156, 0.92), rgba(24, 188, 156, 0.92)), url(../img/lead-bg.jpg);
+    background-image: linear-gradient(rgba(24, 188, 156, 0.92), rgba(24, 188, 156, 0.92)), url(/img/lead-bg.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
