@@ -1,0 +1,29 @@
+---
+title: Документы2
+layout: default
+modal-id: 11
+date: 2025-04-24
+img: docs.png
+alt: image-alt
+project-date: 
+client: 
+category: Электросхемы
+description: 
+
+cont: >
+    <h3>АСУ Продуктовой насосной станции</h3>
+    <p></p>
+    <a href="files\ГСМ_ЭлектроСхемы_V0.9.1.pdf" class="btn btn-default">
+        <i class="fa fa-download"></i> Скачать файл
+    </a>
+    <br>
+    <hr class="star-primary">
+
+    <h3>Шкаф дистанционного контроля вентиляционных установок</h3>
+    <p></p>
+    <a href="files\1_Контроль ВУ венткамер 13 и 16.pdf" class="btn btn-default">
+        <i class="fa fa-download"></i> Скачать файл
+    </a>    
+
+
+---
