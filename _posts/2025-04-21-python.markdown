@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2025-04-21
+img: python.png
+alt: image-alt
+project-date: 
+client: 
+category: Python
+description: 
+---

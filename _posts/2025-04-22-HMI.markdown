@@ -1,0 +1,12 @@
+---
+title: HMI
+layout: default
+modal-id: 3
+date: 2025-04-23
+img: hmi.png
+alt: image-alt
+project-date: 
+client: 
+category: HMI
+description: 
+---
