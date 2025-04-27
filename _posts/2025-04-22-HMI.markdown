@@ -8,5 +8,45 @@ alt: image-alt
 project-date: 
 client: 
 category: HMI
-description: 
+description: > 
+
+    <h3>АСУ Продуктовой насосной станции</h3>
+    <p>Описание</p>
+
+    <div class="row">
+        <div class="col-sm-4">
+            <a href="img/portfolio/cabin.png" data-lightbox="roadtrip" data-title="Горы">
+               <img src="img/portfolio/cabin.png" alt="Описание" class="img-responsive">
+            </a>
+        </div>
+        <div class="col-sm-4">
+            <a href="img/portfolio/cake.png" data-lightbox="roadtrip" data-title="Горы" >
+            <img src="img/portfolio/cake.png" alt="Описание" class="img-responsive">
+                
+            </a>
+        </div>
+        <div class="col-sm-4">
+            <a href="img/portfolio/diag.png" data-lightbox="roadtrip" data-title="Горы">
+                <img src="img/portfolio/diag.png" alt="Описание" class="img-responsive" >
+                
+            </a>
+        </div>
+    </div>
+    <div class="row" style="margin-top: 20px;">
+        <div class="col-sm-4">
+            <img src="img/portfolio/cake.png" class="img-responsive" alt="HMI Screenshot 4">
+        </div>
+        <div class="col-sm-4">
+            <img src="img/portfolio/cake.png" class="img-responsive" alt="HMI Screenshot 5">
+        </div>
+        <div class="col-sm-4">
+            <a href="img/portfolio/cake.png" data-lightbox="hmi-gallery">
+                <img src="img/portfolio/cake.png" class="img-responsive" alt="HMI Screenshot 6">
+            </a>
+        </div>
+    </div>
+    <a href="files/diagram/ГСМ_ЭлектроСхемы_V0.9.1.pdf" class="btn btn-default">
+        <i class="fa fa-download"></i> Скачать файл
+    </a>
+
 ---

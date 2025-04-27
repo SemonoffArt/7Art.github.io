@@ -1,3 +1,4 @@
 {% include css/bootstrap.min.css %}
 {% include css/main.css %}
 {% include css/vertical-timeline.css %}
+{% include css/lightbox.min.css %}
