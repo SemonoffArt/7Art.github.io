@@ -27,6 +27,27 @@ cont: >
             </a>
 
         <hr class="star-primary">
+
+        <h4>Руководство оператора ЗИФ "Кубака"</h4>
+        <p> 
+            
+        </p>
+        <a href="files\Руководство опертора ЗИФ Кубака.pdf" class="btn btn-default">
+                <i class="fa fa-download"></i> Скачать файл
+        </a>
+
+        <hr class="star-primary">
+
+        <h4>Описание ПО и КТС "Гранит"</h4>
+        <p> 
+            
+        </p>
+        <a href="files\Описание ПО и КТС Гранит.pdf" class="btn btn-default">
+                <i class="fa fa-download"></i> Скачать файл
+        </a>
+
+        <hr class="star-primary">
+
   
         <h4>Отчёт по аварийному останову мельницы</h4>
         <p> 
@@ -37,13 +58,7 @@ cont: >
             </a>
  
         <hr class="star-primary">
-        <h4>Объяснительная за останов ПЛК 992 03.08.21</h4>
-        <p> 
-            Что то пошло не так при написании функции диагностики ПЛК.
-        </p>
-        <a href="files\Объяснительная за останов 992 03.08.21.pdf" class="btn btn-default">
-                <i class="fa fa-download"></i> Скачать файл
-        </a>
+
 
 
   

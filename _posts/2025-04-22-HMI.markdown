@@ -9,44 +9,150 @@ project-date:
 client: 
 category: HMI
 description: > 
-
-    <h3>АСУ Продуктовой насосной станции</h3>
-    <p>Описание</p>
+    <!-- ----------------------------------------------------------------------------- -->
+    <h3>Дробильно-сортировочный завод «Гранит»</h3>
+    <p>Scada CIMPLICITY</p>
 
     <div class="row">
         <div class="col-sm-4">
-            <a href="img/portfolio/cabin.png" data-lightbox="roadtrip" data-title="Горы">
-               <img src="img/portfolio/cabin.png" alt="Описание" class="img-responsive">
+            <a href="img/screenshots/granit/main12.png" data-lightbox="hmi_granit" data-title="Гранит Главный 1">
+               <img src="img/screenshots/granit/main12.png" alt="Гранит Главный 1" class="img-responsive">
             </a>
         </div>
         <div class="col-sm-4">
-            <a href="img/portfolio/cake.png" data-lightbox="roadtrip" data-title="Горы" >
-            <img src="img/portfolio/cake.png" alt="Описание" class="img-responsive">
-                
+             <a href="img/screenshots/granit/main21.png" data-lightbox="hmi_granit" data-title="Гранит Главный 2">
+               <img src="img/screenshots/granit/main21.png" alt="Гранит Главный 2" class="img-responsive">
             </a>
         </div>
         <div class="col-sm-4">
-            <a href="img/portfolio/diag.png" data-lightbox="roadtrip" data-title="Горы">
-                <img src="img/portfolio/diag.png" alt="Описание" class="img-responsive" >
-                
+             <a href="img/screenshots/granit/КСД.png" data-lightbox="hmi_granit" data-title="Гранит КСД">
+               <img src="img/screenshots/granit/КСД.png" alt="Гранит КСД" class="img-responsive">
             </a>
         </div>
     </div>
     <div class="row" style="margin-top: 20px;">
         <div class="col-sm-4">
-            <img src="img/portfolio/cake.png" class="img-responsive" alt="HMI Screenshot 4">
+            <a href="img/screenshots/granit/ЦД.png" data-lightbox="hmi_granit" data-title="Гранит ЦД">
+               <img src="img/screenshots/granit/ЦД.png" alt="Гранит ЦД" class="img-responsive">
+            </a>
         </div>
         <div class="col-sm-4">
-            <img src="img/portfolio/cake.png" class="img-responsive" alt="HMI Screenshot 5">
+            <a href="img/screenshots/granit/ЩД.png" data-lightbox="hmi_granit" data-title="Гранит ЩД">
+               <img src="img/screenshots/granit/ЩД.png" alt="Гранит ЩД" class="img-responsive">
+            </a>
         </div>
         <div class="col-sm-4">
-            <a href="img/portfolio/cake.png" data-lightbox="hmi-gallery">
-                <img src="img/portfolio/cake.png" class="img-responsive" alt="HMI Screenshot 6">
+            <a href="img/screenshots/granit/ЛК1.png" data-lightbox="hmi_granit" data-title="Гранит ЛК1">
+               <img src="img/screenshots/granit/ЛК1.png" alt="Гранит ЛК1" class="img-responsive">
             </a>
         </div>
     </div>
-    <a href="files/diagram/ГСМ_ЭлектроСхемы_V0.9.1.pdf" class="btn btn-default">
-        <i class="fa fa-download"></i> Скачать файл
-    </a>
+
+    <!-- ----------------------------------------------------------------------------- -->
+
+    <h3>ЗИФ «Белая гора»</h3>
+    <p>Scada CIMPLICITY</p>
+
+    <div class="row">
+        <div class="col-sm-4">
+            <a href="img/screenshots/bg/main1.png" data-lightbox="hmi_bg" data-title="Белая гора Главный 2">
+               <img src="img/screenshots/bg/main1.png" alt="Белая гора Главный 1" class="img-responsive">
+            </a>
+        </div>
+        <div class="col-sm-4">
+            <a href="img/screenshots/bg/main2.png" data-lightbox="hmi_bg" data-title="Белая гора Главный 2">
+               <img src="img/screenshots/bg/main2.png" alt="Белая гора Главный 1" class="img-responsive">
+            </a>
+        </div>
+        <div class="col-sm-4">
+            <a href="img/screenshots/bg/water.png" data-lightbox="hmi_bg" data-title="Белая гора Водоснабжение">
+               <img src="img/screenshots/bg/water.png" alt="Белая гора Водоснабжение" class="img-responsive">
+            </a>
+        </div>
+    </div>
+    <!-- ----------------------------------------------------------------------------- -->
+    <h3>ЗИФ «Кубака»</h3>
+    <p>Scada CIMPLICITY</p>
+
+    <div class="row">
+        <div class="col-sm-4">
+            <a href="img/screenshots/kubaka/main1.png" data-lightbox="hmi_kubaka" data-title="Кубака Главный">
+               <img src="img/screenshots/kubaka/main1.png" alt="Кубака Главный" class="img-responsive">
+            </a>
+        </div>
+        <div class="col-sm-4">
+            <a href="img/screenshots/kubaka/sagm.png" data-lightbox="hmi_kubaka" data-title="Кубака МПСИ">
+               <img src="img/screenshots/kubaka/sagm.png" alt="Кубака МПСИ" class="img-responsive">
+            </a>
+        </div>
+        <div class="col-sm-4">
+            <a href="img/screenshots/kubaka/bm.png" data-lightbox="hmi_kubaka" data-title="Кубака МШЦ">
+               <img src="img/screenshots/kubaka/bm.png" alt="Кубака МШЦ" class="img-responsive">
+            </a>
+        </div>
+    </div>
+    <!-- ----------------------------------------------------------------------------- -->
+
+
+    <h3>Отделение АДР</h3>
+    <p>SIEMENS OP MP-277 10″ Touch</p>
+
+    <div class="row">
+        <div class="col-sm-4">
+            <a href="img/screenshots/adr/adr2.png" data-lightbox="hmi_adr" data-title="HMI ADR 1">
+               <img src="img/screenshots/adr/adr2.png" alt="ADR HMI screenshot" class="img-responsive">
+            </a>
+        </div>
+        <div class="col-sm-4">
+            <a href="img/screenshots/adr/adr3.png" data-lightbox="hmi_adr" data-title="HMI ADR 2">
+               <img src="img/screenshots/adr/adr3.png" alt="ADR HMI screenshot" class="img-responsive">
+            </a>
+        </div>
+        <div class="col-sm-4">
+            <a href="img/screenshots/adr/adr4.png" data-lightbox="hmi_adr" data-title="HMI ADR 3">
+               <img src="img/screenshots/adr/adr4.png" alt="ADR HMI screenshot" class="img-responsive">
+            </a>
+        </div>
+    </div>
+    <div class="row" style="margin-top: 20px;">
+        <div class="col-sm-4">
+            <a href="img/screenshots/adr/adr5.png" data-lightbox="hmi_adr" data-title="HMI ADR 4">
+               <img src="img/screenshots/adr/adr5.png" alt="ADR HMI screenshot" class="img-responsive">
+            </a>
+        </div>
+        <div class="col-sm-4">
+            <a href="img/screenshots/adr/adr6.png" data-lightbox="hmi_adr" data-title="HMI ADR 5">
+               <img src="img/screenshots/adr/adr6.png" alt="ADR HMI screenshot" class="img-responsive">
+            </a>
+        </div>
+        <div class="col-sm-4">
+            <a href="img/screenshots/adr/adr7.png" data-lightbox="hmi_adr" data-title="HMI ADR 6">
+               <img src="img/screenshots/adr/adr7.png" alt="ADR HMI screenshot" class="img-responsive">
+            </a>
+        </div>
+    </div>
+
+    <!-- ----------------------------------------------------------------------------- -->
+    
+    <h3>Отделение измельчения</h3>
+    <p>SIEMENS OP </p>
+
+    <div class="row">
+        <div class="col-sm-4">
+            <a href="img/screenshots/grinding/grnd1.png" data-lightbox="hmi_grnd" data-title="HMI Измельчение">
+               <img src="img/screenshots/grinding/grnd1.png" alt="Измельчение HMI screenshot" class="img-responsive">
+            </a>
+        </div>
+       <div class="col-sm-4">
+            <a href="img/screenshots/grinding/grnd2.png" data-lightbox="hmi_grnd" data-title="HMI Измельчение">
+               <img src="img/screenshots/grinding/grnd2.png" alt="Измельчение HMI screenshot" class="img-responsive">
+            </a>
+        </div>
+       <div class="col-sm-4">
+            <a href="img/screenshots/grinding/grnd3.png" data-lightbox="hmi_grnd" data-title="HMI Измельчение">
+               <img src="img/screenshots/grinding/grnd3.png" alt="Измельчение HMI screenshot" class="img-responsive">
+            </a>
+        </div>
+    </div>
 
 ---

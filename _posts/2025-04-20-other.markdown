@@ -11,5 +11,8 @@ category: прочее
 description: 
 
 cont: >
-      
+        <video width="640" height="360" controls>
+            <source src="Поиск_не_используемых_тегов_мимиах.mp4" type="video/mp4">
+            Ваш браузер не поддерживает HTML5 видео.
+        </video>
 ---
