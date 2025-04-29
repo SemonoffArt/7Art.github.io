@@ -7,29 +7,25 @@ img: diag.png
 alt: image-alt
 project-date: 
 client: 
-category: Электросхемы
-description: 
+category: 
+description: Примеры разработанной мной документации.
 
 cont: >
-    <h3>АСУ Продуктовой насосной станции</h3>
+    <h4>АСУ Продуктовой насосной станции</h4>
     <p></p>
     <a href="files\diagram\ГСМ_ЭлектроСхемы_V0.9.1.pdf" class="btn btn-default">
         <i class="fa fa-download"></i> Скачать файл
     </a>
-    <br>
-    <hr class="star-primary">
     
     
-    <h3>АСУ насосов зумпфа №1</h3>
+    <h4  style="margin-top: 40px">АСУ насосов зумпфа №1</h4>
     <p></p>
     <a href="files\diagram\Зумпф1_электросхемы_v1.2.pdf" class="btn btn-default">
         <i class="fa fa-download"></i> Скачать файл
     </a>
-    <br>
-    <hr class="star-primary">
-    
+  
 
-    <h3>Шкаф дистанционного управления вентиляционными установками</h3>
+    <h4  style="margin-top: 40px">Шкаф дистанционного управления вентиляционными установками</h4>
     <p></p>
     <a href="files\diagram\1_Контроль ВУ венткамер 13 и 16.pdf" class="btn btn-default">
         <i class="fa fa-download"></i> Скачать файл

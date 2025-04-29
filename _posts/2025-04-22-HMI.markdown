@@ -7,8 +7,9 @@ img: hmi.png
 alt: image-alt
 project-date: 
 client: 
-category: HMI
-description: > 
+category: 
+description: Примеры разработанных мной экранов HMI. 
+cont: >
     <!-- ----------------------------------------------------------------------------- -->
     <h3>Дробильно-сортировочный завод «Гранит»</h3>
     <p>Scada CIMPLICITY</p>
@@ -135,7 +136,7 @@ description: >
     <!-- ----------------------------------------------------------------------------- -->
     
     <h3>Отделение измельчения</h3>
-    <p>SIEMENS OP </p>
+    <p>SIEMENS OP KT-700 Basic 7″</p>
 
     <div class="row">
         <div class="col-sm-4">
