@@ -7,12 +7,12 @@ img: plc.png
 alt: image-alt
 project-date:  
 client:  
-category: ПЛК
-description: 
+category:
+description: Примеры разработанных мной проектов для ПЛК
 cont: >
     <h3>АСУ Корпуса Крупного Дробления (ККД)</h3>
-    <a href="img/screenshots/kkd2/main1.png" data-lightbox="hmi_kkd2" data-title="ККД2 Главный">
-        <img src="img/screenshots/kkd2/main1.png" alt="ККД2 Главный" class="img-responsive">
+    <a href="img/screenshots/kkd2/main2.png" data-lightbox="hmi_kkd2" data-title="ККД2 Главный">
+        <img src="img/screenshots/kkd2/main2.png" alt="ККД2 Главный" class="img-responsive">
     </a>
     <p>Система автоматизации ККД на базе ПЛК Siemens S7-1500, разработана в TIA Portal v16. 
     </p>
@@ -26,13 +26,13 @@ cont: >
     </p>
     <a href="https://github.com/SemonoffArt/tot_plus">https://github.com/SemonoffArt/tot_plus</a>
     
-    <h3 style="margin-top: 30px;">Алгоритм обнаружения заклёпок на конвейерной ленте металдетектором</h3>
+    <h3 style="margin-top: 30px;">Алгоритм обнаружения заклёпок на конвейерной ленте</h3>
     <a href="img/screenshots/rivet_detector/rivet_detector_fb3.png" data-lightbox="hmi_rivet_detector" data-title="Алгоритм обнаружения заклёпок на конвейерной ленте">
         <img src="img/screenshots/rivet_detector/rivet_detector_fb3.png" alt="Алгоритм обнаружения заклёпок на конвейерной ленте" class="img-responsive">
     </a>
-    <p>Проект реализует программное решение для обнаружения заклёпок на конвейерной ленте с использованием металлодетектора. Система разработана для работы с ПЛК Siemens S7-1500 и программируется в среде TIA Portal.
+    <p>Программное решение для обнаружения и игнорирования заклёпок на конвейерной ленте с использованием металлодетектора. Система разработана для ПЛК Siemens S7-1500 в среде TIA Portal.
     </p>
-    <p>Алгоритм обнаружения основан на принципе постоянного времени оборота заклёпок на ленте. Система идентифицирует заклёпки, анализируя паттерн срабатывания металлодетектора.
+    <p>Алгоритм основан на принципе постоянного времени оборота заклёпок на ленте. Система идентифицирует заклёпки, анализируя паттерн срабатывания металлодетектора.
     </p>
 
     <a href="https://github.com/SemonoffArt/rivet_detector">https://github.com/SemonoffArt/rivet_detector</a>
