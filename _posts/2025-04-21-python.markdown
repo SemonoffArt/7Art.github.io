@@ -9,7 +9,7 @@ client:
 category: 
 description: Примеры моих проектов на Python
 cont: >
-    <h3>Телеграм бот для доступа к данным PLG Web, камерам, ECS экранам, а также поисковик по документации АСУ ТП.</h3>
+    <h3>Телеграм бот для доступа к данным PLG Web, камерам, ECS экранам, а также поисковик по документации АСУ ТП</h3>
         <video width="480" height="800" controls>
             <source src="files/video/tg_bot_demo.mp4" type="video/mp4">
             Ваш браузер не поддерживает HTML5 видео.
