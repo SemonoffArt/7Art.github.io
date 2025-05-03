@@ -9,6 +9,25 @@ client:
 category: 
 description: Примеры моих проектов на Python
 cont: >
+    <h3>Утилиты для пусконаладки SCADA FLS ECS8</h3>
+    <p>
+        Набор утилит в среде Jupyter Lab работающие с данными проекта SCADA FLS ECS в MS SQL.
+    </p>
+    <p>
+        На видео ниже редактор текста проекта
+ 
+    </p>
+        <video width="800" height="450" controls>
+            <source src="files/video/sql_get_put_txt.mp4" type="video/mp4">
+            Ваш браузер не поддерживает HTML5 видео.
+        </video>
+
+        <a href="https://github.com/SemonoffArt/ECS8_SQL" class="btn btn-default">
+                <i class="fa fa-link"></i> Исходный код и документация на GitHub
+        </a>
+
+
+
     <h3>Телеграм бот для доступа к данным PLG Web, камерам, ECS экранам, а также поисковик по документации АСУ ТП</h3>
         <video width="480" height="800" controls>
             <source src="files/video/tg_bot_demo.mp4" type="video/mp4">
