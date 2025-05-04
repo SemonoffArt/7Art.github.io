@@ -9,7 +9,7 @@ client:
 category: 
 description: Примеры моих работ на Python
 cont: >
-    <h3>XML2XLS конвертор трендов SCADA ECS8 из XML в XLSX</h3>
+    <h3>XML2XLS — конвертор трендов ECS8 из XML в XLSX</h3>
     <p>
         Утилита для преобразования выгруженных данных трендов из SCADA-системы FLS ECS8 в формате XML в Excel (XLSX).
     </p>

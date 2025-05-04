@@ -110,25 +110,25 @@ cont: >
             </a>
         </div>
         <div class="col-sm-4">
-            <a href="img/screenshots/adr/adr4.png" data-lightbox="hmi_adr" data-title="HMI ADR 3">
-               <img src="img/screenshots/adr/adr4.png" alt="ADR HMI screenshot" class="img-responsive">
+            <a href="img/screenshots/adr/adr5.png" data-lightbox="hmi_adr" data-title="HMI ADR 3">
+               <img src="img/screenshots/adr/adr5.png" alt="ADR HMI screenshot" class="img-responsive">
             </a>
         </div>
     </div>
     <div class="row" style="margin-top: 20px;">
         <div class="col-sm-4">
-            <a href="img/screenshots/adr/adr5.png" data-lightbox="hmi_adr" data-title="HMI ADR 4">
-               <img src="img/screenshots/adr/adr5.png" alt="ADR HMI screenshot" class="img-responsive">
-            </a>
-        </div>
-        <div class="col-sm-4">
-            <a href="img/screenshots/adr/adr6.png" data-lightbox="hmi_adr" data-title="HMI ADR 5">
+            <a href="img/screenshots/adr/adr6.png" data-lightbox="hmi_adr" data-title="HMI ADR 4">
                <img src="img/screenshots/adr/adr6.png" alt="ADR HMI screenshot" class="img-responsive">
             </a>
         </div>
         <div class="col-sm-4">
-            <a href="img/screenshots/adr/adr7.png" data-lightbox="hmi_adr" data-title="HMI ADR 6">
+            <a href="img/screenshots/adr/adr7.png" data-lightbox="hmi_adr" data-title="HMI ADR 5">
                <img src="img/screenshots/adr/adr7.png" alt="ADR HMI screenshot" class="img-responsive">
+            </a>
+        </div>
+        <div class="col-sm-4">
+            <a href="img/screenshots/adr/adr8.png" data-lightbox="hmi_adr" data-title="HMI ADR 6">
+               <img src="img/screenshots/adr/adr8.png" alt="ADR HMI screenshot" class="img-responsive">
             </a>
         </div>
     </div>
