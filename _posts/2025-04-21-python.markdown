@@ -9,11 +9,24 @@ client:
 category: 
 description: Примеры моих работ на Python
 cont: >
-    <h3>Инструменты для пусконаладки SCADA FLS ECS8</h3>
+    <h3>XML2XLS конвертор экспорта трендов SCADA FLS ECS8 XML в XLSX</h3>
+    <p>
+        Утилита для преобразования экспортируемых данных трендов в формате XML из SCADA-системы FLS ECS 8 в формат Excel (XLSX).
+    </p>
+
+    <video width="800" height="600" controls>
+        <source src="files/video/xml2xls.mp4" type="video/mp4">
+        Ваш браузер не поддерживает HTML5 видео.
+    </video>
+    <a href="https://github.com/SemonoffArt/xml2xls" class="btn btn-default">
+            <i class="fa fa-link"></i> Исходный код и документация на GitHub
+    </a>
+
+
+    <h3 style="margin-top: 40px;">Инструменты для пусконаладки SCADA FLS ECS8</h3>
     <p>
         Набор утилит в Jupyter Lab для работы с данными SCADA FLS ECS в MS SQL
     </p>
-
     <video width="800" height="450" controls>
         <source src="files/video/sql_get_put_txt.mp4" type="video/mp4">
         Ваш браузер не поддерживает HTML5 видео.
@@ -27,14 +40,12 @@ cont: >
     </a>
 
 
-
-    <h3>Телеграм бот для доступа к данным PLG Web, камерам, ECS экранам, а также поисковик по документации АСУ ТП</h3>
+    <h3 style="margin-top: 40px;">Телеграм бот для доступа к данным PLG Web, камерам, ECS экранам, а также поисковик по документации АСУ ТП</h3>
         <video width="480" height="800" controls>
             <source src="files/video/tg_bot_demo.mp4" type="video/mp4">
             Ваш браузер не поддерживает HTML5 видео.
         </video>
-
-
+    
         <h4>Основные функции</h4>
         <div class="row text-left">
         <div class="col-lg-12 col-lg-offset-1">
@@ -52,7 +63,7 @@ cont: >
         <a href="https://github.com/SemonoffArt/plg_web_telebot" class="btn btn-default">
                 <i class="fa fa-link"></i> Исходный код и документация на GitHub
         </a>
-    
+
 
 
 

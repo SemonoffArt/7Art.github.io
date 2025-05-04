@@ -20,7 +20,7 @@ cont: >
             <i class="fa fa-link"></i> Исходный код и документация на GitHub
     </a>
 
-    <h3 style="margin-top: 30px;">Алгоритм импульсного накопительного счётчика весов</h3>
+    <h3 style="margin-top: 40px;">Алгоритм импульсного накопительного счётчика весов</h3>
     <a href="img/screenshots/tot_plus/screenshot1.png" data-lightbox="hmi_tot_plus" data-title="Алгоритм импульсного накопительного счётчика весов с коррекцией">
         <img src="img/screenshots/tot_plus/screenshot1.png" alt="Алгоритм импульсного накопительного счётчика весов" class="img-responsive">
     </a>
@@ -30,7 +30,7 @@ cont: >
             <i class="fa fa-link"></i> Исходный код и документация на GitHub
     </a>
     
-    <h3 style="margin-top: 30px;">Алгоритм обнаружения заклёпок на конвейерной ленте</h3>
+    <h3 style="margin-top: 40px;">Алгоритм обнаружения заклёпок на конвейерной ленте</h3>
     <a href="img/screenshots/rivet_detector/rivet_detector_fb3.png" data-lightbox="hmi_rivet_detector" data-title="Алгоритм обнаружения заклёпок на конвейерной ленте">
         <img src="img/screenshots/rivet_detector/rivet_detector_fb3.png" alt="Алгоритм обнаружения заклёпок на конвейерной ленте" class="img-responsive">
     </a>
