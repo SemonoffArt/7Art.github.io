@@ -1,7 +1,7 @@
 ---
 title: Электросхемы
 layout: default
-modal-id: 1
+modal-id: 4
 date: 2025-04-24
 img: diag.png
 alt: image-alt

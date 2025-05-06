@@ -1,7 +1,7 @@
 ---
 title: Документы
 layout: default
-modal-id: 11
+modal-id: 3
 date: 2025-04-24
 img: docs.png
 alt: image-alt
