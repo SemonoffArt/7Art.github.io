@@ -7,9 +7,47 @@ img: submarine.png
 alt: image-alt
 project-date: 
 client: 
-category: прочее
+category: 
 description: 
-
 cont: >
+    <!-- ----------------------------------------------------------------------------- -->
+    <h3>Маленький парник на гидропонике</h3>
+    <p>
+        Гидропонная система работает на базе контроллера <strong>ESP32</strong> с прошивкой <strong>Tasmota</strong> и визуализацией в <strong>Grafana</strong>. Климат поддерживается вентилятором по влажности и температуре, полив и освещение включается по заданному графику.
+    </p>
 
+    <div class="row">
+        <div class="col-sm-12">
+            <a href="img/screenshots/growbox/hmi.jpg" data-lightbox="growbox" data-title="Парник Grafana">
+               <img src="img/screenshots/growbox/hmi.jpg" alt="Парник Grafana" class="img-responsive">
+            </a>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <a href="img/screenshots/growbox/box1.jpg" data-lightbox="growbox" data-title="Парник Щит управления">
+               <img src="img/screenshots/growbox/box1.jpg" alt="Парник Щит управления" class="img-responsive">
+            </a>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-4">
+            <a href="img/screenshots/growbox/green1.jpg" data-lightbox="growbox" data-title="Парник Щит управления">
+               <img src="img/screenshots/growbox/green1.jpg" alt="Парник Щит управления" class="img-responsive">
+            </a>
+        </div>
+        <div class="col-sm-4">
+            <a href="img/screenshots/growbox/green3.jpg" data-lightbox="growbox" data-title="Парник Зелень">
+               <img src="img/screenshots/growbox/green3.jpg" alt="Парник Зелень" class="img-responsive">
+            </a>
+        </div>
+        <div class="col-sm-4">
+            <a href="img/screenshots/growbox/green4.jpg" data-lightbox="growbox" data-title="Парник Зелень">
+               <img src="img/screenshots/growbox/green4.jpg" alt="Парник Зелень" class="img-responsive">
+            </a>
+        </div>
+
+    </div>
+
+    <!-- ----------------------------------------------------------------------------- -->
 ---
