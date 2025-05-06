@@ -10,6 +10,33 @@ client:
 category: 
 description: 
 cont: >
+
+    <h3>Визуализация технологических отчетов в Grafana</h3>
+    <p>
+        АСУ ТП формирует ежедневные отчеты в формате <strong>Excel</strong>. Для их наглядного отображения реализована визуализация в системе <strong>Grafana</strong>.
+    </p>
+    <p>
+        Раз в сутки выполняется Python скрипт который скачивает <strong>xlsx</strong>-файлы с FTP-сервера, извлекает из них информацию и сохраняет в в базе <strong>InfluxDB</strong>. Откуда данные визуализируется в <strong>Grafana</strong>. 
+    </p>
+    <p>
+       Такая архитектура позволяет оперативно получать доступ к актуальным данным и анализировать их в удобной визуальной форме.
+    </p>
+
+    <div class="row">
+        <div class="col-sm-12">
+            <a href="img/screenshots/report_vis/grafana1.jpg" data-lightbox="grafana" data-title="Grafana Визуализация отчёта отделения измельчения">
+               <img src="img/screenshots/report_vis/grafana1.jpg" alt="Grafana Визуализация отчёта отделения измельчения" class="img-responsive">
+            </a>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <a href="img/screenshots/report_vis/grafana2.jpg" data-lightbox="grafana" data-title="Grafana Визуализация отчёта реагентного отделения">
+               <img src="img/screenshots/report_vis/grafana2.jpg" alt="Grafana Визуализация отчёта реагентного отделения" class="img-responsive">
+            </a>
+        </div>
+    </div>
+
     <!-- ----------------------------------------------------------------------------- -->
     <h3>Парник на гидропонике</h3>
     <p>
@@ -50,34 +77,7 @@ cont: >
     </div>
 
     <!-- ----------------------------------------------------------------------------- -->
-    <h3>Визуализация технологических отчетов в Grafana</h3>
-    <p>
-        АСУ ТП формирует ежедневные отчеты в формате Excel. Для их наглядного отображения реализована визуализация в системе Grafana.
-    </p>
-    <p>
-        Раз в сутки выполняется Python скрипт который: скачивает xlsx-файлы с FTP-сервера, извлекает из них информацию и сохраняет в в базе InfluxDB. Откуда данные визуализируется в Grafana. 
-    </p>
-    <p>
-       Такая архитектура позволяет оперативно получать доступ к актуальным данным и анализировать их в удобной визуальной форме.
-    </p>
-
-    <div class="row">
-        <div class="col-sm-12">
-            <a href="img/screenshots/report_vis/grafana1.jpg" data-lightbox="grafana" data-title="Grafana Визуализация отчёта отделения измельчения">
-               <img src="img/screenshots/report_vis/grafana1.jpg" alt="Grafana Визуализация отчёта отделения измельчения" class="img-responsive">
-            </a>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-12">
-            <a href="img/screenshots/report_vis/grafana2.jpg" data-lightbox="grafana" data-title="Grafana Визуализация отчёта реагентного отделения">
-               <img src="img/screenshots/report_vis/grafana2.jpg" alt="Grafana Визуализация отчёта реагентного отделения" class="img-responsive">
-            </a>
-        </div>
-    </div>
-
-
-    <!-- ----------------------------------------------------------------------------- -->
+    
 
 
 
