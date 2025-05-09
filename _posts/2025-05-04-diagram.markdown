@@ -8,7 +8,7 @@ alt: image-alt
 project-date: 
 client: 
 category: 
-description: Примеры разработанной мной документации.
+description: Примеры разработанной мной документации
 
 cont: >
     <h4>АСУ Продуктовой насосной станции</h4>
